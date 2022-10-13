@@ -1,0 +1,3 @@
+--INSERT into employee (id, first_name, last_name, email_address) values(1, "Ratna", "Patel", "ratnanpatel@gmail.com");
+--INSERT into employee (id, first_name, last_name, email_address) values(2, "Tejashri", "Patil", "tejashri@gmail.com");
+--INSERT into employee (id, first_name, last_name, email_address) values(3, "Arohee", "Pal", "arohee@gmail.com");
